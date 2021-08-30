@@ -1,6 +1,6 @@
 {
-  "name": "@dollarshaveclub/cloudworker",
-  "version": "0.1.2",
+  "name": "@ericxstone/cloudworker",
+  "version": "1.0.0",
   "description": "node.js runner for Cloudflare Workers",
   "main": "index.js",
   "types": "index.d.ts",
@@ -16,11 +16,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dollarshaveclub/cloudworker.git"
+    "url": "git+https://github.com/ericxstone/cloudworker.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dollarshaveclub/cloudworker/issues"
+    "url": "https://github.com/ericxstone/cloudworker/issues"
   },
   "keywords": [
     "cloudflare",
@@ -30,7 +30,7 @@
     "cloudflare worker",
     "cloudworker"
   ],
-  "homepage": "https://github.com/dollarshaveclub/cloudworker#readme",
+  "homepage": "https://github.com/ericxstone/cloudworker#readme",
   "dependencies": {
     "@dollarshaveclub/node-fetch": "^3.2.0",
     "web-streams-polyfill": "^2.0.3",
